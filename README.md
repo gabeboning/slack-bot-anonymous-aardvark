@@ -15,7 +15,7 @@ After creating it, take note of the API Token. You'll need it later. All other s
 ![API Token](http://ledhack.org/content/images/2015/06/Screen-Shot-2015-06-05-at-12-53-48-PM.png)
 
 ### Deploy this app to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/sparragus/slack-bot-edward-snowden/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/gabeboning/slack-bot-edward-snowden/tree/master)
 
 Use that button to deploy this app to Heroku. Before you deploy the app, add the API Token for the config variable. Also, give your app a name.
 
