@@ -6,7 +6,7 @@ Let the Edward Snowden keep you anonymous on Slack. [slack-bot-edward-snowden](h
 Before we deploy this app to [Heroku](https://heroku.com) we need to create and configure the bot on Slack.
 
 ### Create a bot
-Go to your team's Slack settings, and add a [new bot integration](https://my.slack.com/services/new/bot). Name him edward_snowden.
+Go to your team's Slack settings, and add a [new bot integration](https://my.slack.com/services/new/bot). Name him edward_snowden (or whatever you like).
 
 ![Create a bot](http://ledhack.org/content/images/2015/06/newbot.png)
 
